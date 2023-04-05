@@ -1,0 +1,9 @@
+{
+  "name": "nuxttestmodule",
+  "version": "0.0.1",
+  "private": true,
+  "main": "./module.ts",
+  "devDependencies": {
+    "@nuxt/kit": "^3.2.2"
+  }
+}
